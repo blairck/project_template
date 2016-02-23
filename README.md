@@ -1,6 +1,6 @@
 # Description #
 
-This is a lightweight template for projects to simplify following good unit testing & style practices by providing Makefile commands and directory structure. Using PyLint from the very beginning of a project ensures that proper style is adhered to, and having the project ready for unit tests will make them easier to write. 
+This is a lightweight template for projects to simplify following good unit testing & style practices by providing Makefile commands and directory structure. Using PyLint from the very beginning of a project ensures that proper style is adhered to, and having the project ready for unit tests will make them easier to write. Coverage reports encourage adding additional unit test cases.
 
 ### Requirements ###
 
